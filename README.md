@@ -21,7 +21,7 @@
 <!-- comentario -->
 
 
-![w3school](https://www.w3schools.com/))
+![w3shools]([ruta/imagen.jpg](https://www.w3schools.com/))
 
 
 | Encabezado 1 | Encabezado 2 | Encabezado 3 |
