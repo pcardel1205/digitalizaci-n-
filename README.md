@@ -17,5 +17,8 @@
 2. Elemento 2
 3. Elemmento 3
 
+
 <!-- comentario -->
 
+
+![Texto alternativo](ruta/imagen.jpg)
