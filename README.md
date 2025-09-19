@@ -21,7 +21,7 @@
 <!-- comentario -->
 
 
-[youtube](https://www.w3chools.com/)
+[Texto del enlace](http://www.w3schools.com)
 
 
 | Encabezado 1 | Encabezado 2 | Encabezado 3 |
