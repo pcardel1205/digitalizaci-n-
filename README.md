@@ -21,10 +21,7 @@
 <!-- comentario -->
 
 
-[Texto del enlace](http://www.w3schools.com)
+[w3schools](http://www.w3schools.com)
 
 
-| Encabezado 1 | Encabezado 2 | Encabezado 3 |
-| ------------ | ------------ | ------------ |
-| Dato 1      | Dato 2      | Dato 3      |
-| Dato 4      | Dato 5      | Dato 6      |
+   ![Texto alternativo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png)
